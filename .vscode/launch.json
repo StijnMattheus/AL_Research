@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "BriStiMaCo SandBox",
+      "startupObjectId": 22,
+      "startupObjectType": "Page",
+      "breakOnError": true,
+      "launchBrowser": true,
+      "tenant": "ceb72cd6-1b8b-4737-8238-2ff5908d0c22",
+      "sandboxName": "BriStiMaCo-SandBox",
+      "schemaUpdateMode": "ForceSync",
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true
+    }
+  ]
+}
