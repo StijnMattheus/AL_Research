@@ -5,6 +5,7 @@ page 50100 "PRF Books"
     DelayedInsert = true;
     SourceTable = "PRF Book";
     UsageCategory = Lists;
+    CardPageId = "PRF Book Card";
     ApplicationArea = all;
 
     layout
